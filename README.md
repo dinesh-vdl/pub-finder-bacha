@@ -1,8 +1,7 @@
-# pub-finder
-Search for pubs nearby by setting the radius
- 
- ###Features
- - Displays pubs nearby 
- - User can set the search radius
- - Displays rating of the pub if available 
- 
+# Pub Finder
+
+- Set the desired distance from your current location
+- Tap update radius to display the nearby pubs
+
+- Displays rating of the pubs if available
+- Maximum distance for the search is set to 10km
